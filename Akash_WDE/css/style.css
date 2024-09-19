@@ -1,0 +1,13 @@
+.bg-color{
+    background-color: #1B486F;
+}
+.text-color {
+    color: white;
+}
+.text-color a:hover{
+    color: white;
+    background-color: orangered; 
+    border-radius: 10px;
+
+}
+    
